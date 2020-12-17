@@ -91,6 +91,7 @@ nav {
 
 .watch {
     font-size: 30px;
+    text-decoration: none;
 }
 
 .watch :hover {
@@ -125,6 +126,7 @@ nav {
 
 .underbackpic img {
     flex: 1;
+    width: 100%;
 }
 
 footer  {
@@ -159,9 +161,8 @@ footer  {
 .flag,
 .flag :hover {
     cursor: pointer;
-
 }
 
-* {
-    /* border: 1px solid red; */
-}
+/* * {
+    border: 1px solid red;
+} */
